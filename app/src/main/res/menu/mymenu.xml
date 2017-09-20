@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/itmPage2"
+        android:title="Go toPage2"/>
+    <item android:id="@+id/itmPage3"
+        android:title="Go toPage3"/>
+    <item android:id="@+id/itmPage4"
+        android:title="Go toPage4"/>
+    <item android:id="@+id/itmPage5"
+        android:title="Go toPage5"/>
+
+</menu>
